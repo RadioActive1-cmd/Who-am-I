@@ -1,6 +1,9 @@
 # Who-am-I
 First HTML with in line CSS website project
 
+**Caution** UNDERCONSTRUCTION
+
+Live Website URL: https://gehs-Website.github.io/Who-am-I.github.io/
 
 Progressions
 -Project Folder Structure
@@ -27,3 +30,7 @@ This is a description of who I am. I work at the pool as hard as I can every tim
 
 ### 50-Word Description of my Career Plans
 I am very interested in engineering. But I don't think that I will have the marks for it. I have been trying very hard to understand the physics of it but I guess I'm not their yet. But that doesn't mean that I wont give up in school. In fact it makes me more motivated to try harder and harder.
+
+
+
+---
