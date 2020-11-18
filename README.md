@@ -3,7 +3,7 @@ First HTML with in line CSS website project
 
 **Caution** UNDERCONSTRUCTION
 
-Live Website URL: https://gehs-Website.github.io/Who-am-I/
+Live Website URL: https://gehs-Website.github.io/github.io.Who-am-I/
 
 Progressions
 -Project Folder Structure
