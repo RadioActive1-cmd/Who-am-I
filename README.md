@@ -3,7 +3,7 @@ First HTML with in line CSS website project
 
 **Caution** UNDERCONSTRUCTION
 
-Live Website URL: https://gehs-Website.github.io/Who-am-I.github.io/
+Live Website URL:  https://radioactive1-cmd.github.io/Who-am-I.github.io/.
 
 Progressions
 -Project Folder Structure
@@ -11,7 +11,7 @@ Progressions
 -Who-am-I Data, <ahref+"">Click Here</a>
 
 ---
-## Who-am-I
+# Who-am-I
 
 ### Title for the Project
 Who-am-I
